@@ -1,4 +1,4 @@
-# Knockout Inheritance approache.
+# Knockout Inheritance approach.
 
 A test approach for implementing inheritance in knockout.
 This is a little sample app using  ````ko.utils.extend```` for extending a viewmodel functionality.
